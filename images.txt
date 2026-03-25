@@ -34,3 +34,4 @@
 #hjdyzy/oracle:19.3.0-ee
 #lejianwen/rustdesk-server-s6:latest
 rustdesk/rustdesk-server
+rancher/k3s:latest
