@@ -35,3 +35,4 @@
 #lejianwen/rustdesk-server-s6:latest
 rustdesk/rustdesk-server
 rancher/k3s:latest
+python:3.11-slim
