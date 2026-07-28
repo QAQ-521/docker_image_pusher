@@ -36,4 +36,4 @@
 #rustdesk/rustdesk-server
 #rancher/k3s:latest
 #python:3.11-slim
-prometheus
+prometheus:latest
