@@ -36,4 +36,10 @@
 #rustdesk/rustdesk-server
 #rancher/k3s:latest
 #python:3.11-slim
-prometheus:latest
+prom/prometheus:latest
+grafana/grafana:latest
+prom/alertmanager:latest
+prom/blackbox-exporter:latest
+zabbix/zabbix-server-mysql:latest
+jenkins/jenkins:latest
+gitlab/gitlab-ce:latest
