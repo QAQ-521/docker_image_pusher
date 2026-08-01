@@ -3,48 +3,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #centos7.5
-#docker
-#php
-#mariadb
-#consul
-#haproxy
-#rabbitmq
-#wordpress
-#python
-#debian
-#java
-#nextcloud
-#tomcat
-#maven
-#jenkins
-#ghost
-#cassandra
-#vault
-#fedora
-#perl
-#zookeeper
-#mono
-#opensuse
-#oraclelinux
-#mongo-express
-#gcc
-#rust
-#cirros
-#postgresql
-#hjdyzy/oracle:19.3.0-ee
-#lejianwen/rustdesk-server-s6:latest
-#rustdesk/rustdesk-server
-#rancher/k3s:latest
-#python:3.11-slim
-#prom/prometheus:latest
-#grafana/grafana:latest
-#prom/alertmanager:latest
-#prom/blackbox-exporter:latest
-#zabbix/zabbix-server-mysql:latest
-#jenkins/jenkins:latest
-#gitlab/gitlab-ce:latest
-kube-state-metrics:2.15.0
-kube-webhook-certgen:v1.6.0
+registry.k8s.io/kube-webhook-certgen:v1.4.0
+
 
 
 
