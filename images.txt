@@ -3,8 +3,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #centos7.5
-registry.k8s.io/kube-webhook-certgen:v1.4.0
-
-
-
-
+docker.io/bitnami/kube-state-metrics:2.15.0
+docker.io/jkroepke/kube-webhook-certgen:v1.6.0
+docker.io/grafana/grafana:12.0.0
