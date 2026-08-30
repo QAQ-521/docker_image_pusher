@@ -4,4 +4,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #centos7.5
 #k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.3.0
-kube-state-metrics:v2.9.2
+#kube-state-metrics:v2.9.2
+flannel-cni-plugin:v1.7.1-flannel1
+flannel:v0.27.0
