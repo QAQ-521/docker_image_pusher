@@ -5,5 +5,7 @@
 #centos7.5
 #k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.3.0
 #kube-state-metrics:v2.9.2
-ghcr.io/flannel-io/flannel-cni-plugin:v1.7.1-flannel1
-ghcr.io/flannel-io/flannel:v0.27.0
+#ghcr.io/flannel-io/flannel-cni-plugin:v1.7.1-flannel1
+#ghcr.io/flannel-io/flannel:v0.27.0
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
