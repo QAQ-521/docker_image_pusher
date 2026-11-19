@@ -11,6 +11,9 @@
 #kubernetesui/metrics-scraper:v1.0.8
 #registry.k8s.io/ingress-nginx/controller:v1.9.4
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231011-8b53cabe0
-docker.io/calico/cni:v3.28.2
-docker.io/calico/node:v3.28.2
-docker.io/calico/kube-controllers:v3.28.2
+#docker.io/calico/cni:v3.28.2
+#docker.io/calico/node:v3.28.2
+#docker.io/calico/kube-controllers:v3.28.2
+quay.io/calico/calico:v3.33.0
+quay.io/calico/third-party-cni-plugins:v3.33.0
+quay.io/calico/node:v3.33.0
