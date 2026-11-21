@@ -1,19 +1,4 @@
 
 #支持私库
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-#centos7.5
-#k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.3.0
-#kube-state-metrics:v2.9.2
-#ghcr.io/flannel-io/flannel-cni-plugin:v1.7.1-flannel1
-#ghcr.io/flannel-io/flannel:v0.27.0
-#kubernetesui/dashboard:v2.7.0
-#kubernetesui/metrics-scraper:v1.0.8
-#registry.k8s.io/ingress-nginx/controller:v1.9.4
-#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231011-8b53cabe0
-#docker.io/calico/cni:v3.28.2
-#docker.io/calico/node:v3.28.2
-#docker.io/calico/kube-controllers:v3.28.2
-quay.io/calico/calico:v3.33.0
-quay.io/calico/third-party-cni-plugins:v3.33.0
-quay.io/calico/node:v3.33.0
+docker.io/library/nginx:1.31.2
