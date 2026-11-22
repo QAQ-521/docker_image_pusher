@@ -2,4 +2,4 @@
 #支持私库
 #支持指定架构
 nginx:1.31.2
-filebeat-oss:8.19.14
+docker.elastic.co/beats/filebeat-oss:8.19.14
