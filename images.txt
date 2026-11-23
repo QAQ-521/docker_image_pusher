@@ -4,5 +4,5 @@
 #nginx:1.31.2
 #docker.elastic.co/beats/filebeat-oss:8.19.14
 ingress-nginx/controller:1.9.4
-ingress-nginx/kube-webhook-certgen:v1.6.0 / v20231011-8b53cabe0
+ingress-nginx/kube-webhook-certgen:v1.6.0/v20231011-8b53cabe0
 
