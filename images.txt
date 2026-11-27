@@ -5,4 +5,5 @@
 #docker.elastic.co/beats/filebeat-oss:8.19.14
 #registry.k8s.io/ingress-nginx/controller:v1.9.4
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231011-8b53cabe0
-docker.elastic.co/beats/filebeat-wolfi:9.5.6
+#docker.elastic.co/beats/filebeat-wolfi:9.5.6
+nginx:1.27-alpine
